@@ -1,3 +1,7 @@
+# To utilize these codes, you can refer to our work by reading the article provided below.
+
+https://www.researchgate.net/publication/379105943_Breast_Cancer_Prediction_with_Hybrid_Filter-Wrapper_Feature_Selection
+
 # Breast Cancer Prediction with Hybrid Filter-Wrapper Feature Selection
 * **Remove Constant Features**
   1. Remove Constant Features Using Variance Threshold
